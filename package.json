@@ -1,0 +1,16 @@
+{
+  "name": "code-backend",
+  "version": "1.0.0",
+  "description": "A backend series with code-aur-chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ], 
+  "author": "Meraj",
+  "license": "ISC"
+}
